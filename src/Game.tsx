@@ -1,12 +1,13 @@
 import React from "react";
 import useLife from "./hooks/useLife";
 import Head from "./components/head";
+import Footer from "./components/footer";
 import Grid from "./components/grid";
 import Control from "./components/control";
 
 const Game: React.FunctionComponent = () => {
-	const height = 32;
-	const width = 32;
+	const height = 24;
+	const width = 24;
 
 	const {
 		stream,
@@ -39,6 +40,8 @@ const Game: React.FunctionComponent = () => {
 				width={width}
 				setAlive={setAlive}
 				stream={stream}></Grid>
+
+			<Footer />
 		</div>
 	);
 };
