@@ -52,7 +52,8 @@ const Head: React.FunctionComponent<{
 			<h3>{"</>"}</h3>
 			<h3>Game of Life</h3>
 			<p>
-				This is my implementation of
+				{" This is my implementation of "}
+
 				<a
 					href='https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjn9NS4keTpAhW5IrkGHfjiC_MQFjAAegQIAhAB&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJohn_Conway&usg=AOvVaw2oQn32WW7cX9qMrdlHXIm_'
 					// eslint-disable-next-line react/jsx-no-target-blank
