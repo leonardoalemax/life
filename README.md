@@ -8,7 +8,7 @@ Each step runs a set of 3 simple rules:
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-[![life](/life.gif "life")]
+[![life](/life.gif "life")](https://leonardoalemax.github.io/life/)
 
 [You can see it running here!](https://leonardoalemax.github.io/life/)
 
