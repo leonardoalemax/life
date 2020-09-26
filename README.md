@@ -10,6 +10,8 @@ Each step runs a set of 3 simple rules:
 
 [![life](/life.gif "life")]
 
+[You can see it running here!](https://leonardoalemax.github.io/life/)
+
 ## To Run It
 
 Clone project, install the dependencies and run it.
